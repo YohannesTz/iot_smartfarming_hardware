@@ -1,5 +1,6 @@
 # iot_smartfarming_hardware
-hard ware code for a simple IOT project
+hardware code for a simple IOT project. front end code [here](https://github.com/YohannesTz/iot_smartfarm_reporting) and backend 
+[here](https://github.com/YohannesTz/iot_smart_backend/)
 
 # Preview
 ![preview](preview.jpg)
